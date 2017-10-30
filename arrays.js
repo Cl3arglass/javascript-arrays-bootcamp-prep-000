@@ -4,4 +4,3 @@ function addElementToBeginningOfArray() {
   [elementN, ...array];
   return array
 }
-
